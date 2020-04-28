@@ -1,0 +1,22 @@
+{
+  "name": "coderx_studentapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanhPhamHus/CoderX_StudentApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanhPhamHus/CoderX_StudentApp/issues"
+  },
+  "homepage": "https://github.com/HanhPhamHus/CoderX_StudentApp#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
